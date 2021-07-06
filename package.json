@@ -1,6 +1,6 @@
 {
   "name": "alphabcg",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "Quickly Convert any letter to image with random background ",
   "main": "alphabcg.js",
   "private": false,
@@ -10,6 +10,7 @@
   "keywords": [
     "text-to-image"
   ],
+  "repository": "https://github.com/BigB97/alphabcg",
   "dependencies": {
     "canvas": "^2.8.0",
     "cloudinary": "^1.26.1",
