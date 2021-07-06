@@ -1,0 +1,20 @@
+{
+  "name": "alphabcg",
+  "version": "0.0.1",
+  "description": "Quickly Convert any letter to image with random background ",
+  "main": "alphabcg.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Errpr: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "text-to-image"
+  ],
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "cloudinary": "^1.26.1",
+    "debug": "~2.6.9",
+    "readme-md-generator": "^1.0.0",
+    "streamifier": "^0.1.1"
+  }
+}
