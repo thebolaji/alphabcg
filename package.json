@@ -1,6 +1,6 @@
 {
   "name": "alphabcg",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "Quickly Convert any letter to image with random background ",
   "main": "alphabcg.js",
   "private": false,

@@ -1,7 +1,7 @@
 const fs = require('fs');
 const generateRandomColor = require('./color_generator');
 const { registerFont, createCanvas } = require('canvas');
-registerFont(`${__dirname}\Yantramanav-Bold.ttf`, {
+registerFont(`${__dirname}/Yantramanav-Bold.ttf`, {
   family: 'BJ',
   weight: 400,
 });

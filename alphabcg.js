@@ -15,7 +15,7 @@ const alphabcg = async (str, opts) => {
     CloudinaryStorage(opts);
     const buffer = await imageConverter(str);
     const result = await uploadFromBuffer(buffer);
-    return result.url;
+    return result;
   } catch (error) {
     throw new Error(error);
   }
